@@ -1,1 +1,1 @@
-worker: python games_bot.py
+web: python games_bot.py
