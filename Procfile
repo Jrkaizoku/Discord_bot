@@ -1,1 +1,1 @@
-worker: python games_bot.py:work
+worker: python crear_base.py
