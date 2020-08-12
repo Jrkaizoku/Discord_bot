@@ -1,1 +1,1 @@
-worker: python games_bot.py start
+worker: python games_bot.py
